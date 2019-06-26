@@ -1,0 +1,6 @@
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\bin\Debug\Entidades.SP.dll
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\bin\Debug\Entidades.SP.pdb
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\obj\Debug\Entidades.SP.dll
+D:\VisualStudio\Requeni.Gonzalo\Entidades.SP\obj\Debug\Entidades.SP.pdb
